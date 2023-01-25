@@ -28,6 +28,9 @@ yarn
 // Run the project
 yarn react-app:dev
 ```
+## Steps
+
+- Check the images in the "steps" folder for a visual step-by-step process.
 
 ## Prerequisites
 
